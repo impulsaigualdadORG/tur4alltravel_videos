@@ -24,3 +24,7 @@ La composición actual es una **prueba técnica de escenas**, no una reconstrucc
 Este repositorio parte del ZIP recuperado, no del proyecto original completo. No contiene skills propias ni recursos de marca o audio. Consulta [el estado y pendientes](docs/ESTADO_Y_PENDIENTES.md) y [la guía para incorporar el material de ChatGPT](docs/INCORPORACION_CHATGPT.md).
 
 Se incluye `package-lock.json` para instalar las versiones verificadas con `npm ci`. No se versionan `node_modules` ni renders.
+
+## Material de marca recibido
+
+Manuales y SVG de IMPULSA IGUALDAD incorporados. Consulta [el inventario y las discrepancias de identidad](docs/RECURSOS_DE_MARCA.md). Las fuentes recibidas están disponibles localmente y excluidas de Git mientras se comprueban sus licencias. El logo TUR4all Travel mostrado en el chat sigue pendiente como archivo descargable.

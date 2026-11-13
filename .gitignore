@@ -1,3 +1,6 @@
 node_modules/
 output/
 .DS_Store
+
+# Fuentes recibidas: no redistribuir hasta comprobar licencias.
+public/brand/fonts-local/
