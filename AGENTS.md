@@ -39,3 +39,8 @@ No inferir que un borrador anterior representa el último montaje aprobado.
 - npm run studio
 - npm run compositions
 - npm run render:draft (solo prueba técnica; no entrega definitiva)
+
+## Skills y registro compartido
+- Criterios detallados por área en `.claude/skills/*/SKILL.md` (marca TUR4all Travel, marca IMPULSA IGUALDAD, motion graphics, Remotion, subtítulos, locución, mezcla, exportación y control de calidad). Son archivos de texto: cualquier agente puede leerlos.
+- Claude Code lee además `CLAUDE.md`, que remite a este archivo.
+- Cada agente trabaja en su rama y anota sus cambios en `docs/REGISTRO_DE_CAMBIOS.md`.
